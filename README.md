@@ -1,7 +1,6 @@
 # WordPress + MariaDB dengan Docker Compose
 
-Proyek ini menjalankan WordPress dan MariaDB menggunakan Docker Compose serta memeriksa konfigurasi secara otomatis melalui GitHub Actions.
-
+[![Compose Check](https://github.com/anandafitria1305/ci-compose-minggu11/actions/workflows/compose-check.yml/badge.svg)](https://github.com/anandafitria1305/ci-compose-minggu11/actions/workflows/compose-check.yml)
 ## Persiapan
 
 1. Salin `.env.example` menjadi `.env`.
